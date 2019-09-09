@@ -1,0 +1,14 @@
+/Users/altexo94/Documents/Revingtron/revingpos-api/bin/Debug/netcoreapp2.2/revingpos-api.deps.json
+/Users/altexo94/Documents/Revingtron/revingpos-api/bin/Debug/netcoreapp2.2/revingpos-api.runtimeconfig.json
+/Users/altexo94/Documents/Revingtron/revingpos-api/bin/Debug/netcoreapp2.2/revingpos-api.runtimeconfig.dev.json
+/Users/altexo94/Documents/Revingtron/revingpos-api/bin/Debug/netcoreapp2.2/revingpos-api.dll
+/Users/altexo94/Documents/Revingtron/revingpos-api/bin/Debug/netcoreapp2.2/revingpos-api.pdb
+/Users/altexo94/Documents/Revingtron/revingpos-api/obj/Debug/netcoreapp2.2/revingpos-api.csprojAssemblyReference.cache
+/Users/altexo94/Documents/Revingtron/revingpos-api/obj/Debug/netcoreapp2.2/revingpos-api.csproj.CoreCompileInputs.cache
+/Users/altexo94/Documents/Revingtron/revingpos-api/obj/Debug/netcoreapp2.2/revingpos-api.RazorAssemblyInfo.cache
+/Users/altexo94/Documents/Revingtron/revingpos-api/obj/Debug/netcoreapp2.2/revingpos-api.RazorAssemblyInfo.cs
+/Users/altexo94/Documents/Revingtron/revingpos-api/obj/Debug/netcoreapp2.2/revingpos-api.AssemblyInfoInputs.cache
+/Users/altexo94/Documents/Revingtron/revingpos-api/obj/Debug/netcoreapp2.2/revingpos-api.AssemblyInfo.cs
+/Users/altexo94/Documents/Revingtron/revingpos-api/obj/Debug/netcoreapp2.2/revingpos-api.RazorTargetAssemblyInfo.cache
+/Users/altexo94/Documents/Revingtron/revingpos-api/obj/Debug/netcoreapp2.2/revingpos-api.dll
+/Users/altexo94/Documents/Revingtron/revingpos-api/obj/Debug/netcoreapp2.2/revingpos-api.pdb
